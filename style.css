@@ -21,3 +21,23 @@
     cursor: pointer;
 
 }
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-color: violet;
+}
+.cat2{
+    background-color: palevioletred;
+
+}
+.cat3{
+    background-color: blue;
+}
+.catagories h1{
+    color: white;
+}
+.catagories img{
+    width: 100px;
+}
